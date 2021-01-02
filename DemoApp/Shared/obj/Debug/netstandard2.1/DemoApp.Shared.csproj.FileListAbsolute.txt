@@ -1,0 +1,8 @@
+C:\Source\DemoApp-Blazor\DemoApp\Shared\bin\Debug\netstandard2.1\DemoApp.Shared.deps.json
+C:\Source\DemoApp-Blazor\DemoApp\Shared\bin\Debug\netstandard2.1\DemoApp.Shared.dll
+C:\Source\DemoApp-Blazor\DemoApp\Shared\bin\Debug\netstandard2.1\DemoApp.Shared.pdb
+C:\Source\DemoApp-Blazor\DemoApp\Shared\obj\Debug\netstandard2.1\DemoApp.Shared.AssemblyInfoInputs.cache
+C:\Source\DemoApp-Blazor\DemoApp\Shared\obj\Debug\netstandard2.1\DemoApp.Shared.AssemblyInfo.cs
+C:\Source\DemoApp-Blazor\DemoApp\Shared\obj\Debug\netstandard2.1\DemoApp.Shared.csproj.CoreCompileInputs.cache
+C:\Source\DemoApp-Blazor\DemoApp\Shared\obj\Debug\netstandard2.1\DemoApp.Shared.dll
+C:\Source\DemoApp-Blazor\DemoApp\Shared\obj\Debug\netstandard2.1\DemoApp.Shared.pdb
